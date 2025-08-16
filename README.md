@@ -20,7 +20,7 @@ If you’d like to add an alternate solution or improve existing code:
 
 4. Open a PR 🚀
 
-📑 Problem List
+
 ## 📑 Problem List  
 
 | # | Problem             | Difficulty | Solution(s) |
