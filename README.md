@@ -1,83 +1,33 @@
-# Maximum 69 Number 🔢
-## Problem Statement
+# 📘 LeetCode Solutions in Python
 
-You are given a positive integer `num` consisting only of the digits **6** and **9**.
-Return the maximum number you can get by changing **at most one digit** (`6` becomes `9`, and `9` becomes `6`)
+Welcome to this repository! 🚀
+This repo contains solutions to various LeetCode problems, written in Python, with an aim to keep the code clean, efficient, and easy to understand.
 
-## Examples
+Some problems also include alternate approaches to showcase different problem-solving strategies.
 
-**Example 1**
 
-```
-Input: num = 9669
-Output: 9969
-```
 
-**Example 2**
+## 🤝 Contributing
 
-```
-Input: num = 9996
-Output: 9999
-```
+Contributions are welcome! 🎉
+If you’d like to add an alternate solution or improve existing code:
 
-**Example 3**
+1. Fork the repo
 
-```
-Input: num = 9999
-Output: 9999
-```
+2. Create a new branch
 
----
+3. Add your solution (with a brief explanation as a comment in code)
 
-## Constraints
+4. Open a PR 🚀
 
-* `1 <= num <= 10^4`
-* `num` consists of only digits `6` and `9`.
+📑 Problem List
+## 📑 Problem List  
 
----
+| # | Problem             | Difficulty | Solution(s) |
+|---|---------------------|------------|-------------|
+| 1 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/description/)   | Easy       | [Solution](1323.%20Maximum%2069%20Number/solution.py) |
+| 2 | [Two Sum](https://leetcode.com/problems/two-sum/)                 |Easy        | …           |
 
-## Solution Explanation
+## ⭐ Support
 
-* We traverse the digits from right to left.
-* Track the **leftmost digit** that is `6`.
-* Changing this digit to `9` gives the **maximum number**.
-* Finally, add `3 * placeValue` to the original number (because `9 - 6 = 3`).
-* If no `6` exists, return the original number.
-
----
-
-## Python Code
-
-```python
-class Solution:
-    def maximum69Number(self, num: int) -> int:
-        placeValue = 1
-        placeValue6 = -1
-        temp = num
-        while temp > 0:
-            remain = temp % 10
-            if remain == 6:
-                placeValue6 = placeValue
-            temp //= 10
-            placeValue *= 10
-        if placeValue6 == -1:
-            return num
-        return num + 3 * placeValue6
-```
-
----
-
-## Complexity Analysis
-
-* **Time Complexity:** `O(d)` where `d` = number of digits in `num`
-* **Space Complexity:** `O(1)` (only a few variables used)
-
----
-
-## Alternative Approach (One-liner)
-
-You can also solve this by converting to a string and replacing the first `6` with `9`:
-
-```python
-def maximum69Number(num: int) -> int:
-    return int(str(num).replace('6', '9', 1))
+If you find this repo helpful, don’t forget to star ⭐ the repository!
