@@ -1,0 +1,67 @@
+
+
+# Intuition
+
+The problem asks us to ensure that all pairs of friends can communicate. Two users can already communicate if they share a common language. If not, we must teach them a language. Since we can only pick **one language to teach**, the idea is to minimize the number of users who need to learn that language.
+
+---
+
+# Approach
+
+1. Convert each user’s known languages into a set for fast lookup.
+2. Go through each friendship. If the two friends have no common language, add both users into a `candidates` set.
+3. If no such users exist (everyone can already communicate), return 0.
+4. Otherwise, for each language from `1` to `n`, count how many candidate users already know that language.
+5. The number of users we need to teach for that language is:
+
+   ```
+   len(candidates) - knows_that_language
+   ```
+6. Take the minimum across all languages and return it.
+
+---
+
+# Complexity
+
+* **Time Complexity:**
+  Checking all friendships takes `O(len(friendships) * avg_language_check)`.
+  For each of the `n` languages, we scan through at most `m` users → `O(n * m)`.
+  Overall: **O(n \* m + len(friendships))**, which is fine since `n, m ≤ 500`.
+
+* **Space Complexity:**
+  We store user languages as sets and the candidate set.
+  That’s **O(m \* n)** in the worst case.
+
+---
+
+# Code
+
+```python
+from typing import List
+
+class Solution:
+    def minimumTeachings(self, n: int, languages: List[List[int]], friendships: List[List[int]]) -> int:
+        # convert each user's known languages into a set
+        langs = [set(user_langs) for user_langs in languages]
+
+        # find users who are in friendships without a common language
+        candidates = set()
+        for u, v in friendships:
+            u -= 1  # adjust to 0-based index
+            v -= 1
+            if langs[u].isdisjoint(langs[v]):  # no common language
+                candidates.add(u)
+                candidates.add(v)
+
+        # if no users need teaching, return 0
+        if not candidates:
+            return 0
+
+        # try teaching each language and find the minimum number of learners needed
+        min_teachers = float('inf')
+        for lang in range(1, n + 1):
+            knows = sum(1 for user in candidates if lang in langs[user])
+            min_teachers = min(min_teachers, len(candidates) - knows)
+
+        return min_teachers
+```
