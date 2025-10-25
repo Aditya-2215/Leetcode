@@ -9,3 +9,13 @@ class Solution:
         for i in range(days):
             total+=start+i
         return total
+
+
+optimized version:-O(1)
+
+class Solution:
+    def totalMoney(self, n: int) -> int:
+        w=n//7
+        r=n-7*w
+        num=7*w*w+49*w+r*r+r*(2*w+1)
+        return num//2
