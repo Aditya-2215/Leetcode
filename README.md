@@ -118,3 +118,15 @@ Reach out via [GitHub Issues](https://github.com/yourusername/LeetCode-Python/is
 or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Aditya-2215/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Aditya-2215/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
+<!---LeetCode Topics End-->
