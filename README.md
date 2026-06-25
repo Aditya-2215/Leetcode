@@ -157,4 +157,12 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aditya-2215/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Aditya-2215/Leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Aditya-2215/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
