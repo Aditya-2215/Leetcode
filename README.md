@@ -196,4 +196,20 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditya-2215/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Tree
+|  |
+| ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Aditya-2215/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Aditya-2215/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Aditya-2215/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Aditya-2215/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
