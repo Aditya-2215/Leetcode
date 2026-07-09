@@ -1,3 +1,4 @@
+#Structure and Node 
 class TrieNode:
     def __init__(self):
         self.child = {}
@@ -5,7 +6,7 @@ class TrieNode:
 
 class Solution:
     def findWords(self, board, words):
-        root = TrieNode()
+        root = TrieNode() #root Creation
         # Build Trie
         for word in words:
             node = root
@@ -14,7 +15,7 @@ class Solution:
                     node.child[ch] = TrieNode()
                 node = node.child[ch]
             node.word = word
-            #DRIVER CODE
+        #DRIVER CODE
         rows = len(board)
         cols = len(board[0])
         res = []
