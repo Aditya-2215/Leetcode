@@ -12,7 +12,6 @@ class Solution:
         def dfs(node):
             visited[node]=True
             component.append(node)
-
             for nei in graph[node]:
                 if not visited[nei]:
                     dfs(nei)
