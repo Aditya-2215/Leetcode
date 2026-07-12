@@ -1,14 +1,10 @@
 class Solution:
-    def arrayRankTransform(self, arr: List[int]) -> List[int]:
-        temp=arr[:]
-        temp.sort()
-        rank={}
-        current_rank=1
-        for num in temp:
-            if num not in rank:
-                rank[num]=current_rank
-                current_rank+=1
+    def arrayRankTransform(self, arr: list[int]) -> list[int]:
+        ranks = {}
+        rank = 1
+        for x in sorted(list(set(arr))):
+            ranks[x] = rank
+            rank += 1
         for i in range(len(arr)):
-            arr[i]=rank[arr[i]]
+            arr[i] = ranks[arr[i]]
         return arr
-        
