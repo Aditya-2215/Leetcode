@@ -235,6 +235,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/Aditya-2215/Leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aditya-2215/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -242,6 +243,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/Aditya-2215/Leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0472-concatenated-words](https://github.com/Aditya-2215/Leetcode/tree/master/0472-concatenated-words) |
@@ -251,6 +253,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Aditya-2215/Leetcode/tree/master/0101-symmetric-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aditya-2215/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aditya-2215/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Aditya-2215/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -260,6 +263,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/Aditya-2215/Leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aditya-2215/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
