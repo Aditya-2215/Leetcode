@@ -207,6 +207,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0020-valid-parentheses](https://github.com/Aditya-2215/Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Enumeration
 |  |
 | ------- |
@@ -235,12 +236,14 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aditya-2215/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0472-concatenated-words](https://github.com/Aditya-2215/Leetcode/tree/master/0472-concatenated-words) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aditya-2215/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aditya-2215/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -258,6 +261,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aditya-2215/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Two Pointers
 |  |
