@@ -148,6 +148,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0004-median-of-two-sorted-arrays](https://github.com/Aditya-2215/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0088-merge-sorted-array](https://github.com/Aditya-2215/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0212-word-search-ii](https://github.com/Aditya-2215/Leetcode/tree/master/0212-word-search-ii) |
+| [0238-product-of-array-except-self](https://github.com/Aditya-2215/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Aditya-2215/Leetcode/tree/master/0283-move-zeroes) |
 | [0472-concatenated-words](https://github.com/Aditya-2215/Leetcode/tree/master/0472-concatenated-words) |
 | [1288-remove-covered-intervals](https://github.com/Aditya-2215/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -198,6 +199,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Aditya-2215/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aditya-2215/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Aditya-2215/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Aditya-2215/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
