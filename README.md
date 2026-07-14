@@ -125,6 +125,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aditya-2215/Leetcode/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/Aditya-2215/Leetcode/tree/master/0062-unique-paths) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aditya-2215/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Aditya-2215/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aditya-2215/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -132,6 +133,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Aditya-2215/Leetcode/tree/master/0062-unique-paths) |
 | [0472-concatenated-words](https://github.com/Aditya-2215/Leetcode/tree/master/0472-concatenated-words) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aditya-2215/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aditya-2215/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -346,4 +348,8 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aditya-2215/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Aditya-2215/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
