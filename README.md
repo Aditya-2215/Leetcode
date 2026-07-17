@@ -137,6 +137,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aditya-2215/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/Aditya-2215/Leetcode/tree/master/0062-unique-paths) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Aditya-2215/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0472-concatenated-words](https://github.com/Aditya-2215/Leetcode/tree/master/0472-concatenated-words) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aditya-2215/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aditya-2215/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -152,6 +153,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0212-word-search-ii](https://github.com/Aditya-2215/Leetcode/tree/master/0212-word-search-ii) |
 | [0238-product-of-array-except-self](https://github.com/Aditya-2215/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Aditya-2215/Leetcode/tree/master/0283-move-zeroes) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Aditya-2215/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0472-concatenated-words](https://github.com/Aditya-2215/Leetcode/tree/master/0472-concatenated-words) |
 | [1288-remove-covered-intervals](https://github.com/Aditya-2215/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aditya-2215/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -264,6 +266,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0101-symmetric-tree](https://github.com/Aditya-2215/Leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Aditya-2215/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0472-concatenated-words](https://github.com/Aditya-2215/Leetcode/tree/master/0472-concatenated-words) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aditya-2215/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/Aditya-2215/Leetcode/tree/master/0841-keys-and-rooms) |
@@ -273,6 +276,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Aditya-2215/Leetcode/tree/master/0101-symmetric-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Aditya-2215/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aditya-2215/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/Aditya-2215/Leetcode/tree/master/0841-keys-and-rooms) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aditya-2215/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -320,12 +324,14 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/Aditya-2215/Leetcode/tree/master/0212-word-search-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Aditya-2215/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aditya-2215/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aditya-2215/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aditya-2215/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Aditya-2215/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0841-keys-and-rooms](https://github.com/Aditya-2215/Leetcode/tree/master/0841-keys-and-rooms) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aditya-2215/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Aditya-2215/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -341,6 +347,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 ## Topological Sort
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Aditya-2215/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3620-network-recovery-pathways](https://github.com/Aditya-2215/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Linked List
 |  |
@@ -377,4 +384,8 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aditya-2215/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Aditya-2215/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
