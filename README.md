@@ -164,6 +164,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aditya-2215/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aditya-2215/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aditya-2215/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2043-simple-bank-system](https://github.com/Aditya-2215/Leetcode/tree/master/2043-simple-bank-system) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aditya-2215/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aditya-2215/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aditya-2215/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -182,6 +183,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditya-2215/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/Aditya-2215/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditya-2215/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2043-simple-bank-system](https://github.com/Aditya-2215/Leetcode/tree/master/2043-simple-bank-system) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aditya-2215/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aditya-2215/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aditya-2215/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -402,6 +404,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 ## Simulation
 |  |
 | ------- |
+| [2043-simple-bank-system](https://github.com/Aditya-2215/Leetcode/tree/master/2043-simple-bank-system) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aditya-2215/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
 |  |
@@ -412,4 +415,8 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Aditya-2215/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aditya-2215/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Design
+|  |
+| ------- |
+| [2043-simple-bank-system](https://github.com/Aditya-2215/Leetcode/tree/master/2043-simple-bank-system) |
 <!---LeetCode Topics End-->
