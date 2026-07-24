@@ -440,4 +440,8 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 |  |
 | ------- |
 | [2043-simple-bank-system](https://github.com/Aditya-2215/Leetcode/tree/master/2043-simple-bank-system) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Aditya-2215/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
