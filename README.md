@@ -126,6 +126,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aditya-2215/Leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Aditya-2215/Leetcode/tree/master/0062-unique-paths) |
+| [0292-nim-game](https://github.com/Aditya-2215/Leetcode/tree/master/0292-nim-game) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aditya-2215/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1185-day-of-the-week](https://github.com/Aditya-2215/Leetcode/tree/master/1185-day-of-the-week) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aditya-2215/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -455,4 +456,12 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Aditya-2215/Leetcode/tree/master/0175-combine-two-tables) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Aditya-2215/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Aditya-2215/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
