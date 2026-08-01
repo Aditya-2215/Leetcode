@@ -1,6 +1,7 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         n=len(prices)
+        #@cache #if we use this then it will automatically reduce the size of the TC from O(2^n) to O(n)
         @cache
         def solve(i,flag):
             if i>=n:
