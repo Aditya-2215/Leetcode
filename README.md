@@ -513,6 +513,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Aditya-2215/Leetcode/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/Aditya-2215/Leetcode/tree/main/0176-second-highest-salary/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
