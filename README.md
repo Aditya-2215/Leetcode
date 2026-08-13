@@ -543,6 +543,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Aditya-2215/Leetcode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Aditya-2215/Leetcode/tree/main/0176-second-highest-salary/) | Medium |
+| [0584-find-customer-referee](https://github.com/Aditya-2215/Leetcode/tree/main/0584-find-customer-referee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Aditya-2215/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
