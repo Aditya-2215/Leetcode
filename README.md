@@ -554,6 +554,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [1068-product-sales-analysis-i](https://github.com/Aditya-2215/Leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/Aditya-2215/Leetcode/tree/main/1148-article-views-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Aditya-2215/Leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Aditya-2215/Leetcode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1683-invalid-tweets](https://github.com/Aditya-2215/Leetcode/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Aditya-2215/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Brainteaser
