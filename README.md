@@ -561,6 +561,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0197-rising-temperature](https://github.com/Aditya-2215/Leetcode/tree/main/0197-rising-temperature/) | Easy |
 | [0577-employee-bonus](https://github.com/Aditya-2215/Leetcode/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/Aditya-2215/Leetcode/tree/main/0584-find-customer-referee/) | Easy |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Aditya-2215/Leetcode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0595-big-countries](https://github.com/Aditya-2215/Leetcode/tree/main/0595-big-countries/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/Aditya-2215/Leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Aditya-2215/Leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
