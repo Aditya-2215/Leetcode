@@ -576,6 +576,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [1683-invalid-tweets](https://github.com/Aditya-2215/Leetcode/tree/main/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/Aditya-2215/Leetcode/tree/main/1729-find-followers-count/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Aditya-2215/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [1934-confirmation-rate](https://github.com/Aditya-2215/Leetcode/tree/main/1934-confirmation-rate/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
