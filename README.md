@@ -188,6 +188,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0039-combination-sum](https://github.com/Aditya-2215/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/Aditya-2215/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Aditya-2215/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Aditya-2215/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Aditya-2215/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya-2215/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditya-2215/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -245,6 +246,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Aditya-2215/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditya-2215/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Aditya-2215/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0139-word-break](https://github.com/Aditya-2215/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-2215/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aditya-2215/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -463,6 +465,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/Aditya-2215/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Aditya-2215/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0212-word-search-ii](https://github.com/Aditya-2215/Leetcode/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aditya-2215/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/Aditya-2215/Leetcode/tree/master/1260-shift-2d-grid) |
