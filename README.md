@@ -212,6 +212,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [1288-remove-covered-intervals](https://github.com/Aditya-2215/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aditya-2215/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Aditya-2215/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/Aditya-2215/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/Aditya-2215/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-2215/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aditya-2215/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -252,6 +253,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aditya-2215/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Aditya-2215/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditya-2215/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Aditya-2215/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2043-simple-bank-system](https://github.com/Aditya-2215/Leetcode/tree/master/2043-simple-bank-system) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditya-2215/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aditya-2215/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -351,6 +353,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditya-2215/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Aditya-2215/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aditya-2215/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Aditya-2215/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aditya-2215/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/Aditya-2215/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aditya-2215/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -518,6 +521,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Aditya-2215/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aditya-2215/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aditya-2215/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aditya-2215/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
