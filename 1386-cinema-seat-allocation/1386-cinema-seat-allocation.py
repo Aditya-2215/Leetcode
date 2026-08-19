@@ -1,3 +1,5 @@
+#Time:  O(R)
+#Space: O(R)
 from collections import defaultdict
 class Solution:
     def maxNumberOfFamilies(self, n: int, reservedSeats: List[List[int]]) -> int:
