@@ -201,6 +201,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Aditya-2215/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Aditya-2215/Leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aditya-2215/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0347-top-k-frequent-elements](https://github.com/Aditya-2215/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0472-concatenated-words](https://github.com/Aditya-2215/Leetcode/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/Aditya-2215/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/Aditya-2215/Leetcode/tree/master/0518-coin-change-ii) |
@@ -252,6 +253,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditya-2215/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Aditya-2215/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0139-word-break](https://github.com/Aditya-2215/Leetcode/tree/main/0139-word-break/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Aditya-2215/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-2215/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aditya-2215/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Aditya-2215/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -275,6 +277,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aditya-2215/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Aditya-2215/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Aditya-2215/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aditya-2215/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Aditya-2215/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -292,6 +295,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aditya-2215/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2029-stone-game-ix](https://github.com/Aditya-2215/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditya-2215/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aditya-2215/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -368,6 +372,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Aditya-2215/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0347-top-k-frequent-elements](https://github.com/Aditya-2215/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0472-concatenated-words](https://github.com/Aditya-2215/Leetcode/tree/master/0472-concatenated-words) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aditya-2215/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Aditya-2215/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -464,6 +469,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aditya-2215/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-2215/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aditya-2215/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aditya-2215/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -659,4 +665,12 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aditya-2215/Leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aditya-2215/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aditya-2215/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
