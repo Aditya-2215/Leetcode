@@ -590,6 +590,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Aditya-2215/Leetcode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0595-big-countries](https://github.com/Aditya-2215/Leetcode/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Aditya-2215/Leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0619-biggest-single-number](https://github.com/Aditya-2215/Leetcode/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/Aditya-2215/Leetcode/tree/main/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/Aditya-2215/Leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Aditya-2215/Leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
