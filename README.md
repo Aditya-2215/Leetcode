@@ -595,6 +595,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [1068-product-sales-analysis-i](https://github.com/Aditya-2215/Leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/Aditya-2215/Leetcode/tree/main/1075-project-employees-i/) | Easy |
 | [1148-article-views-i](https://github.com/Aditya-2215/Leetcode/tree/main/1148-article-views-i/) | Easy |
+| [1174-immediate-food-delivery-ii](https://github.com/Aditya-2215/Leetcode/tree/main/1174-immediate-food-delivery-ii/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/Aditya-2215/Leetcode/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/Aditya-2215/Leetcode/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/Aditya-2215/Leetcode/tree/main/1251-average-selling-price/) | Easy |
