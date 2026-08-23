@@ -585,6 +585,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Aditya-2215/Leetcode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Aditya-2215/Leetcode/tree/main/0176-second-highest-salary/) | Medium |
+| [0178-rank-scores](https://github.com/Aditya-2215/Leetcode/tree/main/0178-rank-scores/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Aditya-2215/Leetcode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0197-rising-temperature](https://github.com/Aditya-2215/Leetcode/tree/main/0197-rising-temperature/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Aditya-2215/Leetcode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
