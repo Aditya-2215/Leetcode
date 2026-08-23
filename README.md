@@ -608,6 +608,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [1661-average-time-of-process-per-machine](https://github.com/Aditya-2215/Leetcode/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/Aditya-2215/Leetcode/tree/main/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/Aditya-2215/Leetcode/tree/main/1729-find-followers-count/) | Easy |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Aditya-2215/Leetcode/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Aditya-2215/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1934-confirmation-rate](https://github.com/Aditya-2215/Leetcode/tree/main/1934-confirmation-rate/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Aditya-2215/Leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
