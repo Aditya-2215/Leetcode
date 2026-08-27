@@ -276,6 +276,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aditya-2215/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aditya-2215/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aditya-2215/Leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aditya-2215/Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3731-find-missing-elements](https://github.com/Aditya-2215/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aditya-2215/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Aditya-2215/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -307,6 +308,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditya-2215/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aditya-2215/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aditya-2215/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aditya-2215/Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aditya-2215/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -346,6 +348,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Aditya-2215/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aditya-2215/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aditya-2215/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aditya-2215/Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Aditya-2215/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 | Problem Name | Difficulty |
@@ -364,6 +367,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aditya-2215/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aditya-2215/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aditya-2215/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aditya-2215/Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -379,6 +383,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aditya-2215/Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aditya-2215/Leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aditya-2215/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aditya-2215/Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
