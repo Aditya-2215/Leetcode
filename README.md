@@ -638,6 +638,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [1251-average-selling-price](https://github.com/Aditya-2215/Leetcode/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/Aditya-2215/Leetcode/tree/main/1280-students-and-examinations/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Aditya-2215/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
+| [1341-movie-rating](https://github.com/Aditya-2215/Leetcode/tree/main/1341-movie-rating/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Aditya-2215/Leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/Aditya-2215/Leetcode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/Aditya-2215/Leetcode/tree/main/1527-patients-with-a-condition/) | Easy |
