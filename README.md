@@ -126,6 +126,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Aditya-2215/Leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Aditya-2215/Leetcode/tree/master/0062-unique-paths) |
+| [0279-perfect-squares](https://github.com/Aditya-2215/Leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0292-nim-game](https://github.com/Aditya-2215/Leetcode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Aditya-2215/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aditya-2215/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -166,6 +167,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditya-2215/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Aditya-2215/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/Aditya-2215/Leetcode/tree/main/0139-word-break/) | Medium |
+| [0279-perfect-squares](https://github.com/Aditya-2215/Leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Aditya-2215/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Aditya-2215/Leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aditya-2215/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -445,6 +447,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Aditya-2215/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0279-perfect-squares](https://github.com/Aditya-2215/Leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Aditya-2215/Leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aditya-2215/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aditya-2215/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -677,11 +680,13 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/Aditya-2215/Leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Aditya-2215/Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Aditya-2215/Leetcode/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/Aditya-2215/Leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Aditya-2215/Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Aditya-2215/Leetcode/tree/master/0518-coin-change-ii) |
 ## Minimax
