@@ -541,6 +541,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Aditya-2215/Leetcode/tree/master/0002-add-two-numbers) |
 | [0147-insertion-sort-list](https://github.com/Aditya-2215/Leetcode/tree/main/0147-insertion-sort-list/) | Medium |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Aditya-2215/Leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
