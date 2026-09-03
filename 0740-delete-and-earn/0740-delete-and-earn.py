@@ -12,7 +12,7 @@ class Solution:
             take=i*count[i]+solve(i+2)
             memo[i]= max(skip,take)
             return memo[i]
-        return solve(1)
+        return solve(0)
         
     
 
