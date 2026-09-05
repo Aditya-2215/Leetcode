@@ -632,6 +632,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0182-duplicate-emails](https://github.com/Aditya-2215/Leetcode/tree/main/0182-duplicate-emails/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/Aditya-2215/Leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/Aditya-2215/Leetcode/tree/main/0197-rising-temperature/) | Easy |
+| [0511-game-play-analysis-i](https://github.com/Aditya-2215/Leetcode/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0550-game-play-analysis-iv](https://github.com/Aditya-2215/Leetcode/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Aditya-2215/Leetcode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/Aditya-2215/Leetcode/tree/main/0577-employee-bonus/) | Easy |
