@@ -673,6 +673,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Aditya-2215/Leetcode/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Aditya-2215/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/Aditya-2215/Leetcode/tree/main/1789-primary-department-for-each-employee/) | Easy |
+| [1873-calculate-special-bonus](https://github.com/Aditya-2215/Leetcode/tree/main/1873-calculate-special-bonus/) | Easy |
 | [1934-confirmation-rate](https://github.com/Aditya-2215/Leetcode/tree/main/1934-confirmation-rate/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Aditya-2215/Leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Aditya-2215/Leetcode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
