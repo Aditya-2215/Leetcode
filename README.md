@@ -452,6 +452,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0145-binary-tree-postorder-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya-2215/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aditya-2215/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aditya-2215/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -465,6 +466,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0472-concatenated-words](https://github.com/Aditya-2215/Leetcode/tree/master/0472-concatenated-words) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aditya-2215/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/Aditya-2215/Leetcode/tree/master/0841-keys-and-rooms) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aditya-2215/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aditya-2215/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Aditya-2215/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Aditya-2215/Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -496,6 +498,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0145-binary-tree-postorder-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya-2215/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aditya-2215/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aditya-2215/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
