@@ -1,10 +1,22 @@
 class Solution:
     def totalNumbers(self, digits: List[int]) -> int:
-        f = Counter(digits)
-        res = 0
-        for n in range(100, 1000, 2):
-            i, r = divmod(n, 100)
-            j, k = divmod(r, 10)
-            res += f[i] > 0 and f[j] > (i == j) and f[k] > (i == k) + (j == k)
-
-        return res
+        freq = [0] * 10
+        for d in digits:
+            freq[d] += 1
+        ans = set()
+        def solve(pos, num):
+            if pos == 3:
+                ans.add(num)
+                return
+            for d in range(10):
+                if freq[d] == 0:
+                    continue
+                if pos == 0 and d == 0:
+                    continue
+                if pos == 2 and d % 2 != 0:
+                    continue
+                freq[d] -= 1
+                solve(pos + 1, num * 10 + d)
+                freq[d] += 1
+        solve(0, 0)
+        return len(ans)
