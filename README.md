@@ -130,6 +130,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0292-nim-game](https://github.com/Aditya-2215/Leetcode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Aditya-2215/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aditya-2215/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Aditya-2215/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Aditya-2215/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1185-day-of-the-week](https://github.com/Aditya-2215/Leetcode/tree/master/1185-day-of-the-week) |
@@ -789,4 +790,8 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya-2215/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
