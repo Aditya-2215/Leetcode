@@ -136,6 +136,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [1185-day-of-the-week](https://github.com/Aditya-2215/Leetcode/tree/master/1185-day-of-the-week) |
 | [1406-stone-game-iii](https://github.com/Aditya-2215/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aditya-2215/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/Aditya-2215/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/Aditya-2215/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aditya-2215/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -188,6 +189,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [1301-number-of-paths-with-max-score](https://github.com/Aditya-2215/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Aditya-2215/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aditya-2215/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/Aditya-2215/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2742-painting-the-walls](https://github.com/Aditya-2215/Leetcode/tree/master/2742-painting-the-walls) |
@@ -346,6 +348,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-2215/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aditya-2215/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1140-stone-game-ii](https://github.com/Aditya-2215/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/Aditya-2215/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aditya-2215/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aditya-2215/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -635,6 +638,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Aditya-2215/Leetcode/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aditya-2215/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aditya-2215/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aditya-2215/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
