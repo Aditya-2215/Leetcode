@@ -186,6 +186,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0940-distinct-subsequences-ii](https://github.com/Aditya-2215/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1140-stone-game-ii](https://github.com/Aditya-2215/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Aditya-2215/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Aditya-2215/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Aditya-2215/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aditya-2215/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
@@ -232,6 +233,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aditya-2215/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1140-stone-game-ii](https://github.com/Aditya-2215/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Aditya-2215/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Aditya-2215/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aditya-2215/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Aditya-2215/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -563,6 +565,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aditya-2215/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0835-image-overlap](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/0835-image-overlap/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Aditya-2215/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Aditya-2215/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aditya-2215/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aditya-2215/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
