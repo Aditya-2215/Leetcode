@@ -189,6 +189,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Aditya-2215/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Aditya-2215/Leetcode/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1510-stone-game-iv](https://github.com/Aditya-2215/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/Aditya-2215/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
@@ -240,6 +241,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [1386-cinema-seat-allocation](https://github.com/Aditya-2215/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/Aditya-2215/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-2215/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aditya-2215/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/Aditya-2215/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aditya-2215/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -295,6 +297,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [1331-rank-transform-of-an-array](https://github.com/Aditya-2215/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditya-2215/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Aditya-2215/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2043-simple-bank-system](https://github.com/Aditya-2215/Leetcode/tree/master/2043-simple-bank-system) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Aditya-2215/Leetcode/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditya-2215/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -454,6 +457,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditya-2215/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditya-2215/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Aditya-2215/Leetcode/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aditya-2215/Leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditya-2215/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -532,6 +536,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aditya-2215/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aditya-2215/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aditya-2215/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aditya-2215/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
