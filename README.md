@@ -134,6 +134,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0877-stone-game](https://github.com/Aditya-2215/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Aditya-2215/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1185-day-of-the-week](https://github.com/Aditya-2215/Leetcode/tree/master/1185-day-of-the-week) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/Aditya-2215/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aditya-2215/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -814,4 +815,5 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 <!---LeetCode Topics End-->
