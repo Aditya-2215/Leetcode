@@ -821,4 +821,8 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/0329-longest-increasing-path-in-a-matrix/) | Hard |
 <!---LeetCode Topics End-->
