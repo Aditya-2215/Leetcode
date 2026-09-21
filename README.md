@@ -247,6 +247,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aditya-2215/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/Aditya-2215/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
+| [1929-concatenation-of-array](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aditya-2215/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aditya-2215/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Aditya-2215/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -663,6 +664,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/Aditya-2215/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1929-concatenation-of-array](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/1929-concatenation-of-array/) | Easy |
 | [2043-simple-bank-system](https://github.com/Aditya-2215/Leetcode/tree/master/2043-simple-bank-system) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aditya-2215/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/3498-reverse-degree-of-a-string/) | Easy |
