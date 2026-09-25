@@ -305,6 +305,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-2215/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0740-delete-and-earn](https://github.com/Aditya-2215/Leetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aditya-2215/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1096-brace-expansion-ii/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/Aditya-2215/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditya-2215/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Aditya-2215/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -390,6 +391,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0472-concatenated-words](https://github.com/Aditya-2215/Leetcode/tree/master/0472-concatenated-words) |
 | [0940-distinct-subsequences-ii](https://github.com/Aditya-2215/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aditya-2215/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1096-brace-expansion-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Aditya-2215/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditya-2215/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -420,6 +422,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0145-binary-tree-postorder-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/Aditya-2215/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aditya-2215/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1096-brace-expansion-ii/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -458,6 +461,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0347-top-k-frequent-elements](https://github.com/Aditya-2215/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0472-concatenated-words](https://github.com/Aditya-2215/Leetcode/tree/master/0472-concatenated-words) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aditya-2215/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/Aditya-2215/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Aditya-2215/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-2215/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -523,6 +527,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aditya-2215/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aditya-2215/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/Aditya-2215/Leetcode/tree/master/0841-keys-and-rooms) |
+| [1096-brace-expansion-ii](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1096-brace-expansion-ii/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aditya-2215/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Aditya-2215/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aditya-2215/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -636,6 +641,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Aditya-2215/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0212-word-search-ii](https://github.com/Aditya-2215/Leetcode/tree/master/0212-word-search-ii) |
+| [1096-brace-expansion-ii](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aditya-2215/Leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
