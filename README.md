@@ -197,6 +197,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [1510-stone-game-iv](https://github.com/Aditya-2215/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/Aditya-2215/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2742-painting-the-walls](https://github.com/Aditya-2215/Leetcode/tree/master/2742-painting-the-walls) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aditya-2215/Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -260,6 +261,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [2043-simple-bank-system](https://github.com/Aditya-2215/Leetcode/tree/master/2043-simple-bank-system) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aditya-2215/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aditya-2215/Leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2742-painting-the-walls](https://github.com/Aditya-2215/Leetcode/tree/master/2742-painting-the-walls) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Aditya-2215/Leetcode/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aditya-2215/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -608,6 +610,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [1260-shift-2d-grid](https://github.com/Aditya-2215/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Aditya-2215/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aditya-2215/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aditya-2215/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aditya-2215/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -865,4 +868,5 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
