@@ -865,6 +865,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/0020-valid-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
