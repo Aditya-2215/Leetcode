@@ -170,6 +170,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aditya-2215/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/Aditya-2215/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/Aditya-2215/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Aditya-2215/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
@@ -390,6 +391,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditya-2215/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Aditya-2215/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Aditya-2215/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0115-distinct-subsequences](https://github.com/Aditya-2215/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0139-word-break](https://github.com/Aditya-2215/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0212-word-search-ii](https://github.com/Aditya-2215/Leetcode/tree/master/0212-word-search-ii) |
@@ -427,6 +429,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya-2215/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -871,6 +874,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/0032-longest-valid-parentheses/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
