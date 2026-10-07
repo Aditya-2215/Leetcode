@@ -396,6 +396,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0115-distinct-subsequences](https://github.com/Aditya-2215/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0139-word-break](https://github.com/Aditya-2215/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0212-word-search-ii](https://github.com/Aditya-2215/Leetcode/tree/master/0212-word-search-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/Aditya-2215/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0472-concatenated-words](https://github.com/Aditya-2215/Leetcode/tree/master/0472-concatenated-words) |
 | [0678-valid-parenthesis-string](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/0678-valid-parenthesis-string/) | Medium |
@@ -549,6 +550,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0101-symmetric-tree](https://github.com/Aditya-2215/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0279-perfect-squares](https://github.com/Aditya-2215/Leetcode/tree/main/0279-perfect-squares/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/Aditya-2215/Leetcode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aditya-2215/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aditya-2215/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -669,6 +671,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Aditya-2215/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0212-word-search-ii](https://github.com/Aditya-2215/Leetcode/tree/master/0212-word-search-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aditya-2215/Leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Trie
