@@ -265,6 +265,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aditya-2215/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aditya-2215/Leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2742-painting-the-walls](https://github.com/Aditya-2215/Leetcode/tree/master/2742-painting-the-walls) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Aditya-2215/Leetcode/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aditya-2215/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -477,6 +478,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [1927-sum-game](https://github.com/Aditya-2215/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/Aditya-2215/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aditya-2215/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aditya-2215/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditya-2215/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -499,6 +501,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-2215/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aditya-2215/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aditya-2215/Leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aditya-2215/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditya-2215/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -597,6 +600,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0004-median-of-two-sorted-arrays](https://github.com/Aditya-2215/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aditya-2215/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aditya-2215/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aditya-2215/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -619,6 +623,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aditya-2215/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-2215/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aditya-2215/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aditya-2215/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Aditya-2215/Leetcode/tree/master/3620-network-recovery-pathways) |
