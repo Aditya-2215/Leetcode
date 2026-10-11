@@ -267,6 +267,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2742-painting-the-walls](https://github.com/Aditya-2215/Leetcode/tree/master/2742-painting-the-walls) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Aditya-2215/Leetcode/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aditya-2215/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aditya-2215/Leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -456,6 +457,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/Aditya-2215/Leetcode/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aditya-2215/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aditya-2215/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aditya-2215/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
