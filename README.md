@@ -270,6 +270,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Aditya-2215/Leetcode/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aditya-2215/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aditya-2215/Leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditya-2215/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aditya-2215/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -323,6 +324,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2043-simple-bank-system](https://github.com/Aditya-2215/Leetcode/tree/master/2043-simple-bank-system) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Aditya-2215/Leetcode/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditya-2215/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aditya-2215/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditya-2215/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -482,6 +484,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aditya-2215/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aditya-2215/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditya-2215/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aditya-2215/Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -696,6 +699,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Aditya-2215/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aditya-2215/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aditya-2215/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aditya-2215/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
