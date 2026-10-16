@@ -426,6 +426,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/1768-merge-strings-alternately/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/Aditya-2215/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aditya-2215/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -606,6 +607,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0027-remove-element](https://github.com/Aditya-2215/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Aditya-2215/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Aditya-2215/Leetcode/tree/master/0283-move-zeroes) |
+| [1768-merge-strings-alternately](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/1768-merge-strings-alternately/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aditya-2215/Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aditya-2215/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
