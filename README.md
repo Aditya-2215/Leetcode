@@ -315,6 +315,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aditya-2215/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Aditya-2215/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0139-word-break](https://github.com/Aditya-2215/Leetcode/tree/main/0139-word-break/) | Medium |
+| [0242-valid-anagram](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Aditya-2215/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Aditya-2215/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0740-delete-and-earn](https://github.com/Aditya-2215/Leetcode/tree/main/0740-delete-and-earn/) | Medium |
@@ -409,6 +410,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0115-distinct-subsequences](https://github.com/Aditya-2215/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0139-word-break](https://github.com/Aditya-2215/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0212-word-search-ii](https://github.com/Aditya-2215/Leetcode/tree/master/0212-word-search-ii) |
+| [0242-valid-anagram](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/0242-valid-anagram/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/Aditya-2215/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0472-concatenated-words](https://github.com/Aditya-2215/Leetcode/tree/master/0472-concatenated-words) |
@@ -509,6 +511,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0088-merge-sorted-array](https://github.com/Aditya-2215/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Aditya-2215/Leetcode/tree/main/0147-insertion-sort-list/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/0215-kth-largest-element-in-an-array/) | Medium |
+| [0242-valid-anagram](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Aditya-2215/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0472-concatenated-words](https://github.com/Aditya-2215/Leetcode/tree/master/0472-concatenated-words) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aditya-2215/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
