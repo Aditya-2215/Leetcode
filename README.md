@@ -125,6 +125,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Aditya-2215/Leetcode/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/Aditya-2215/Leetcode/tree/master/0062-unique-paths) |
 | [0279-perfect-squares](https://github.com/Aditya-2215/Leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0292-nim-game](https://github.com/Aditya-2215/Leetcode/tree/master/0292-nim-game) |
@@ -687,6 +688,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Aditya-2215/Leetcode/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/0060-permutation-sequence/) | Hard |
 | [0486-predict-the-winner](https://github.com/Aditya-2215/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aditya-2215/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Backtracking
