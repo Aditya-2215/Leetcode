@@ -139,6 +139,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/Aditya-2215/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aditya-2215/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/Aditya-2215/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/Aditya-2215/Leetcode/tree/main/1927-sum-game/) | Medium |
@@ -200,6 +201,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [1406-stone-game-iii](https://github.com/Aditya-2215/Leetcode/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1510-stone-game-iv](https://github.com/Aditya-2215/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/Aditya-2215/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -256,6 +258,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-2215/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/1480-running-sum-of-1d-array/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aditya-2215/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -360,6 +363,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0053-maximum-subarray](https://github.com/Aditya-2215/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Aditya-2215/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aditya-2215/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Aditya-2215/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -561,6 +565,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0145-binary-tree-postorder-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya-2215/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aditya-2215/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aditya-2215/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -609,6 +614,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0145-binary-tree-postorder-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya-2215/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aditya-2215/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aditya-2215/Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -641,6 +647,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aditya-2215/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Aditya-2215/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aditya-2215/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -746,6 +753,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Aditya-2215/Leetcode/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aditya-2215/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aditya-2215/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -764,6 +772,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | ------- | ------- |
 | [0139-word-break](https://github.com/Aditya-2215/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aditya-2215/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -914,6 +923,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya-2215/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -950,4 +960,8 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/1071-greatest-common-divisor-of-strings/) | Easy |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
