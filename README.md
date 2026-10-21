@@ -198,6 +198,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [1143-longest-common-subsequence](https://github.com/Aditya-2215/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Aditya-2215/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1402-reducing-dishes](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1402-reducing-dishes/) | Hard |
 | [1406-stone-game-iii](https://github.com/Aditya-2215/Leetcode/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1510-stone-game-iv](https://github.com/Aditya-2215/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
@@ -254,6 +255,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [1301-number-of-paths-with-max-score](https://github.com/Aditya-2215/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Aditya-2215/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Aditya-2215/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1402-reducing-dishes](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1402-reducing-dishes/) | Hard |
 | [1406-stone-game-iii](https://github.com/Aditya-2215/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-2215/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -500,6 +502,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aditya-2215/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Aditya-2215/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1402-reducing-dishes](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1402-reducing-dishes/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aditya-2215/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -530,6 +533,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [1096-brace-expansion-ii](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/Aditya-2215/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Aditya-2215/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1402-reducing-dishes](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1402-reducing-dishes/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-2215/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aditya-2215/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
