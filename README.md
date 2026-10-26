@@ -148,6 +148,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [2409-count-days-spent-together](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/2409-count-days-spent-together/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Aditya-2215/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aditya-2215/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3024-type-of-triangle](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/3024-type-of-triangle/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aditya-2215/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aditya-2215/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aditya-2215/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -289,6 +290,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditya-2215/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aditya-2215/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aditya-2215/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3024-type-of-triangle](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/3024-type-of-triangle/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aditya-2215/Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aditya-2215/Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aditya-2215/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -548,6 +550,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aditya-2215/Leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aditya-2215/Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aditya-2215/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3024-type-of-triangle](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/3024-type-of-triangle/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aditya-2215/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aditya-2215/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -991,4 +994,8 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1143-longest-common-subsequence/) | Medium |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3024-type-of-triangle](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/3024-type-of-triangle/) | Easy |
 <!---LeetCode Topics End-->
