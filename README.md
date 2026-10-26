@@ -196,6 +196,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0518-coin-change-ii](https://github.com/Aditya-2215/Leetcode/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0740-delete-and-earn](https://github.com/Aditya-2215/Leetcode/tree/main/0740-delete-and-earn/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/Aditya-2215/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Aditya-2215/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1140-stone-game-ii](https://github.com/Aditya-2215/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
@@ -249,6 +250,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0628-maximum-product-of-three-numbers](https://github.com/Aditya-2215/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/0724-find-pivot-index/) | Easy |
 | [0740-delete-and-earn](https://github.com/Aditya-2215/Leetcode/tree/main/0740-delete-and-earn/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/0746-min-cost-climbing-stairs/) | Easy |
 | [0835-image-overlap](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/Aditya-2215/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aditya-2215/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
