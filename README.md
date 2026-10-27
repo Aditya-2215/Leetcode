@@ -194,6 +194,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0472-concatenated-words](https://github.com/Aditya-2215/Leetcode/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/Aditya-2215/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/0509-fibonacci-number/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/Aditya-2215/Leetcode/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0740-delete-and-earn](https://github.com/Aditya-2215/Leetcode/tree/main/0740-delete-and-earn/) | Medium |
@@ -440,6 +441,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0301-remove-invalid-parentheses](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/Aditya-2215/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0472-concatenated-words](https://github.com/Aditya-2215/Leetcode/tree/master/0472-concatenated-words) |
+| [0516-longest-palindromic-subsequence](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/0516-longest-palindromic-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
