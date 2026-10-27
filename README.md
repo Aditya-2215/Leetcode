@@ -200,6 +200,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0746-min-cost-climbing-stairs](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/Aditya-2215/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Aditya-2215/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1092-shortest-common-supersequence](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1092-shortest-common-supersequence/) | Hard |
 | [1140-stone-game-ii](https://github.com/Aditya-2215/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Aditya-2215/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1277-count-square-submatrices-with-all-ones/) | Medium |
@@ -446,6 +447,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [1021-remove-outermost-parentheses](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aditya-2215/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1092-shortest-common-supersequence](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1092-shortest-common-supersequence/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Aditya-2215/Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -1001,6 +1003,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1092-shortest-common-supersequence](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1143-longest-common-subsequence/) | Medium |
 ## Polygons
 | Problem Name | Difficulty |
