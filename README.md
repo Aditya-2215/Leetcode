@@ -181,6 +181,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0053-maximum-subarray](https://github.com/Aditya-2215/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/Aditya-2215/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Aditya-2215/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0072-edit-distance](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Aditya-2215/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya-2215/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditya-2215/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -430,6 +431,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0005-longest-palindromic-substring](https://github.com/Aditya-2215/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Aditya-2215/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/0032-longest-valid-parentheses/) | Hard |
+| [0072-edit-distance](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Aditya-2215/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0139-word-break](https://github.com/Aditya-2215/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0212-word-search-ii](https://github.com/Aditya-2215/Leetcode/tree/master/0212-word-search-ii) |
