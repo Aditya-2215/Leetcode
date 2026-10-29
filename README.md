@@ -603,6 +603,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0101-symmetric-tree](https://github.com/Aditya-2215/Leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/0207-course-schedule/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya-2215/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aditya-2215/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0472-concatenated-words](https://github.com/Aditya-2215/Leetcode/tree/master/0472-concatenated-words) |
@@ -620,6 +621,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0100-same-tree](https://github.com/Aditya-2215/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Aditya-2215/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aditya-2215/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0207-course-schedule](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/0207-course-schedule/) | Medium |
 | [0279-perfect-squares](https://github.com/Aditya-2215/Leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/Aditya-2215/Leetcode/tree/master/0322-coin-change) |
@@ -719,6 +721,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/0207-course-schedule/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aditya-2215/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0841-keys-and-rooms](https://github.com/Aditya-2215/Leetcode/tree/master/0841-keys-and-rooms) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aditya-2215/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -736,6 +739,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/0207-course-schedule/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aditya-2215/Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3620-network-recovery-pathways](https://github.com/Aditya-2215/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Linked List
@@ -974,6 +978,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/0207-course-schedule/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/0329-longest-increasing-path-in-a-matrix/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
