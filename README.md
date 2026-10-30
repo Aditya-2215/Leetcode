@@ -486,6 +486,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Aditya-2215/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/3863-minimum-operations-to-sort-a-string/) | Medium |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -706,6 +707,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aditya-2215/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aditya-2215/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Aditya-2215/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -737,11 +739,13 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aditya-2215/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aditya-2215/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Aditya-2215/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aditya-2215/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Aditya-2215/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
