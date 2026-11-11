@@ -171,6 +171,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aditya-2215/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Aditya-2215/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aditya-2215/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/Aditya-2215/Leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Aditya-2215/Leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -562,6 +563,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aditya-2215/Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
