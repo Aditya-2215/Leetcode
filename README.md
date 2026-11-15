@@ -142,6 +142,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/Aditya-2215/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aditya-2215/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/Aditya-2215/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
@@ -214,6 +215,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [1406-stone-game-iii](https://github.com/Aditya-2215/Leetcode/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1510-stone-game-iv](https://github.com/Aditya-2215/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/Aditya-2215/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
@@ -281,6 +283,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya-2215/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/1480-running-sum-of-1d-array/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -444,6 +447,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aditya-2215/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1140-stone-game-ii](https://github.com/Aditya-2215/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/1480-running-sum-of-1d-array/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1872-stone-game-viii](https://github.com/Aditya-2215/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
