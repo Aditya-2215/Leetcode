@@ -1,0 +1,38 @@
+    
+class Solution:
+    def findSubtreeSizes(self, p: List[int], s: str) -> List[int]:
+        n = len(p)
+        adj = [[] for _ in range(n)]
+        tree = [[] for _ in range(n)]
+        ans = [0] * n
+        last = [-1] * 26
+
+        for i in range(1, n):
+            adj[p[i]].append(i)
+
+        def dfs(u):
+            c = ord(s[u]) - ord('a')
+            old = last[c]
+
+            if u and old != -1:
+                p[u] = old
+            last[c] = u
+
+            for v in adj[u]:
+                dfs(v)
+
+            last[c] = old
+
+        def calc(u):
+            ans[u] = 1
+            for v in tree[u]:
+                ans[u] += calc(v)
+            return ans[u]
+
+        dfs(0)
+
+        for i in range(1, n):
+            tree[p[i]].append(i)
+
+        calc(0)
+        return ans
