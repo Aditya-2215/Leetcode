@@ -498,6 +498,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1927-sum-game](https://github.com/Aditya-2215/Leetcode/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aditya-2215/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aditya-2215/Leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/2409-count-days-spent-together/) | Easy |
