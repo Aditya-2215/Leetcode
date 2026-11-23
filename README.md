@@ -139,6 +139,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1140-stone-game-ii](https://github.com/Aditya-2215/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1185-day-of-the-week](https://github.com/Aditya-2215/Leetcode/tree/master/1185-day-of-the-week) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/Aditya-2215/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aditya-2215/Leetcode/tree/main/1510-stone-game-iv/) | Hard |
@@ -277,6 +278,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [1288-remove-covered-intervals](https://github.com/Aditya-2215/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aditya-2215/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Aditya-2215/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Aditya-2215/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1402-reducing-dishes](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/1402-reducing-dishes/) | Hard |
@@ -450,6 +452,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [0724-find-pivot-index](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/0724-find-pivot-index/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aditya-2215/Leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1140-stone-game-ii](https://github.com/Aditya-2215/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -899,6 +902,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 | [2043-simple-bank-system](https://github.com/Aditya-2215/Leetcode/tree/master/2043-simple-bank-system) |
 ## Database
 | Problem Name | Difficulty |
@@ -1102,4 +1106,8 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
