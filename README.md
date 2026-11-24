@@ -159,6 +159,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aditya-2215/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aditya-2215/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aditya-2215/Leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aditya-2215/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aditya-2215/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aditya-2215/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -327,6 +328,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [3331-find-subtree-sizes-after-changes](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aditya-2215/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aditya-2215/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -553,6 +555,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aditya-2215/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aditya-2215/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aditya-2215/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aditya-2215/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aditya-2215/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -635,6 +638,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aditya-2215/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aditya-2215/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
@@ -864,6 +868,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [3312-sorted-gcd-pair-queries](https://github.com/Aditya-2215/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aditya-2215/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aditya-2215/Leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aditya-2215/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aditya-2215/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
