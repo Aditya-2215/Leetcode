@@ -236,6 +236,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [3693-climbing-stairs-ii](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/3693-climbing-stairs-ii/) | Medium |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Aditya-2215/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -365,6 +366,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [3904-smallest-stable-index-ii](https://github.com/Aditya-2215/Leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3934-smallest-unique-subarray](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Hard/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/3942-minimum-operations-to-sort-a-permutation/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -593,6 +595,7 @@ or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile)
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/3789-minimum-cost-to-acquire-required-items/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Aditya-2215/Leetcode/tree/main/Python3/Medium/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
